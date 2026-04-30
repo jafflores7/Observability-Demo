@@ -11,7 +11,7 @@ username: admin
 
 password: admin
 
-### You will need to add the datasources and create the dashboard manually
+### You will need to add the datasources (in Grafana) and create the dashboard manually 
 
 Prometheus: http://prometheus:9090
 
