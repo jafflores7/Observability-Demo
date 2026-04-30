@@ -8,11 +8,13 @@ http://localhost:3001
 
 
 username: admin
+
 password: admin
 
 ### You will need to add the datasources and create the dashboard manually
 
 Prometheus: http://prometheus:9090
+
 Loki: http://loki:3100
 
 
